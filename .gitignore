@@ -1,0 +1,7 @@
+#* Variaveis de Ambiente
+.env.local
+.env.prod
+
+#* Testes
+tests/
+test/
